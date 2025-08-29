@@ -69,6 +69,4 @@ Recently, I was selected in the **top 5% (3,000 of 60,000+) for Amazon ML Summer
 ---
 
 ## 📫 How to Reach Me  
-- [LinkedIn](https://linkedin.com/in/yug-varshney-488094290)  
-- [Email](mailto:yugvarshney0801@gmail.com)  
-- [GitHub](https://github.com/YugVarshney)  
+- [LinkedIn](https://linkedin.com/in/yug-varshney-488094290)   
