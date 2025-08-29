@@ -7,15 +7,18 @@ Recently, I was selected in the **top 5% (3,000 of 60,000+) for Amazon ML Summer
 ---
 
 ## 🔭 Currently Working On  
-- Enhancing my skills in **AI/ML and cloud computing**  
-- Contributing to **open-source projects** and hackathons  
+- Practicing advanced **Data Structures & Algorithms** for competitive programming
+- Enhancing my skills in **AI/ML and cloud computing**
 - Building scalable backends & intelligent systems  
-- Practicing advanced **Data Structures & Algorithms** for competitive programming  
+- Contributing to **open-source projects** and hackathons  
+
+  
 
 ## 🌱 Currently Learning  
-- Advanced ML techniques (RAG, fine-tuning, GANs)  
-- Cloud-native AI on **Google Cloud** and **Azure**  
+- Advanced ML techniques (RAG, fine-tuning, GANs)
 - Scalable backend systems with **Spring Boot & REST APIs**  
+- Cloud-native AI on **Google Cloud** and **Azure**  
+
 
 ## 👯 Looking to Collaborate On  
 - AI/ML projects and open-source contributions  
@@ -31,8 +34,9 @@ Recently, I was selected in the **top 5% (3,000 of 60,000+) for Amazon ML Summer
 
 **Languages:** Python, C++, Java  
 **AI/ML & DL:** LLMs, CNN, RNN, GRU, GANs, TensorFlow, PyTorch, Hugging Face, Scikit-learn, NLP, CV  
+**Backend & DevOps:** Spring Boot, REST APIs, SQL, Docker, Git 
 **Cloud:** Google Cloud (Vertex AI, BigQuery), Microsoft Azure  
-**Backend & DevOps:** Spring Boot, REST APIs, SQL, Docker, Git  
+ 
 
 ---
 
