@@ -1,72 +1,119 @@
-# Hello, I'm Yug Varshney 👋
+# Hi, I'm Yug Varshney 👋
 
-## 🚀 About Me  
-I'm a Computer Science Engineering student at **IIIT Kota**, passionate about **AI/ML, competitive programming, and building real-world applications**.  
-Recently, I was selected in the **top 5% (3,000 of 60,000+) for Amazon ML Summer School**, competed as a **Regionalist at ICPC 2024**, and have solved **900+ problems across LeetCode, Codeforces, and CodeChef**.
+Computer Science undergraduate at **IIIT Kota**, interested in **software engineering, systems programming, AI/ML, and competitive programming**.
 
----
+I enjoy building systems from the ground up, working close to performance-critical code, and applying machine learning to practical problems.
 
-## 🔭 Currently Working On  
-- Practicing advanced **Data Structures & Algorithms** for competitive programming
-- Enhancing my skills in **AI/ML and cloud computing**
-- Building scalable backends & intelligent systems  
-- Contributing to **open-source projects** and hackathons  
-
-  
-
-## 🌱 Currently Learning  
-- Advanced ML techniques (RAG, fine-tuning, GANs)
-- Scalable backend systems with **Spring Boot & REST APIs**  
-- Cloud-native AI on **Google Cloud** and **Azure**  
-
-
-## 👯 Looking to Collaborate On  
-- AI/ML projects and open-source contributions  
-- Hackathons and innovative tech solutions  
-- Competitive programming contests & problem-solving  
-
-## 💬 Ask Me About  
-- **Python, Machine Learning, Deep Learning, Cloud Computing, Competitive Programming**
+- 🏆 ICPC Asia Regionalist 2024
+- 💻 900+ algorithmic problems solved
+- ⭐ 4★ CodeChef | Codeforces Specialist
+- 🤖 Selected for Amazon ML Summer School 2025 & 2026
+- 🔧 Currently exploring C++ systems programming, debugging, compilers, and low-level software
 
 ---
 
-## 🛠 Skills  
+## 🔭 Currently Working On
 
-**Languages:** Python, C++, Java  
-**AI/ML & DL:** LLMs, CNN, RNN, GRU, GANs, TensorFlow, PyTorch, Hugging Face, Scikit-learn, NLP, CV  
-**Backend & DevOps:** Spring Boot, REST APIs, SQL, Docker, Git 
-**Cloud:** Google Cloud (Vertex AI, BigQuery), Microsoft Azure  
- 
-
----
-
-## 🏆 Achievements  
-- **Amazon ML Summer School (2025):** Selected in top 5% (3,000 / 60,000+)  
-- **ICPC Regionalist 2024:** Solved 4/12 problems, top 40% among 500+ teams  
-- **Competitive Programming:** Solved **900+ problems** across LeetCode, Codeforces, and CodeChef (4★ on CodeChef, Pupil on Codeforces)  
-- **Hacktoberfest 2023:** Contributed 4 PRs across 3+ repositories  
-- **Google Cloud Arcade:** Earned 50+ skill badges, built 3+ cloud-native projects  
-- **Hackathons:**  
-  - Top 3% – Adobe India Hackathon 2025  
-  - Top 2% – Flipkart GRiD 7.0  
-  - Top 0.5% – IIT Kharagpur Data Science Hackathon  
+- Building **systems projects in modern C++**
+- Learning more about **compilers, debuggers, Linux internals, and computer architecture**
+- Developing **backend and AI-powered applications**
+- Practicing advanced **Data Structures & Algorithms**
+- Contributing to open-source projects
 
 ---
 
-## 📂 Highlighted Projects  
-- [Smart Legal Document Analyzer & Chatbot](https://github.com/YugVarshney/Smart-Legal-Document-Analyzer-Chatbot)  
-   Built scalable PDF analyzer with **Azure OCR + Gemini LLM**, processing 100+ pages in <2s with 95% accuracy.  
-- [DeepSeek Chatbot](https://github.com/YugVarshney/Deepseek-Chatbot)  
-   AI chatbot with **Streamlit + DeepSeek**, <1.5s latency, improved response relevance by 20%.  
+## 🌱 Currently Learning
+
+- Modern **C++17/20** and systems programming
+- Linux process and memory internals
+- Compilers, LLVM, debugging, and executable formats
+- Backend and distributed systems
+- Machine Learning, RAG, and LLM-based applications
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠 Technical Skills
 
-![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugVarshney&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YugVarshney&layout=compact&theme=radical)  
+**Languages:** C++, Python, Java, SQL, Bash
+
+**Systems & Core CS:**  
+Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, OOP, Multithreading, Socket Programming, Linux
+
+**Backend:**  
+FastAPI, REST APIs, PostgreSQL, SQLite, Redis, AsyncIO
+
+**AI / ML:**  
+Scikit-Learn, XGBoost, TensorFlow, PyTorch, OpenCV, RAG, LangChain, Sentence Transformers, FAISS, pgvector
+
+**Tools:**  
+Git, GitHub, Docker, CMake, CI/CD, Linux, Postman
+
+**Cloud:**  
+Google Cloud, Microsoft Azure
 
 ---
 
-## 📫 How to Reach Me  
-- [LinkedIn](https://linkedin.com/in/yug-varshney-488094290)   
+## 📂 Featured Projects
+
+### 🔹 MiniDbg — Linux Debugger in C++
+`C++17 • Linux • ptrace • ELF • x86-64`
+
+A lightweight Linux debugger built from scratch using `ptrace`, supporting software breakpoints, single-step execution, register inspection, memory access, and ELF symbol lookup.
+
+> Demonstrates low-level process control, CPU registers, executable formats, and debugging internals.
+
+---
+
+### 🔹 MiniRedis — Concurrent In-Memory Key-Value Store
+`C++17 • Multithreading • POSIX Sockets • TCP/IP • CMake`
+
+A Redis-inspired storage engine with a multi-threaded server, O(1) key lookup, LRU eviction, TTL expiration, AOF persistence, and crash recovery.
+
+- 50K+ operations/sec
+- Thread-safe concurrent access
+- RESP-style protocol parsing
+
+---
+
+### 🔹 SmartDoc AI — Document Intelligence & RAG Platform
+`Python • FastAPI • PostgreSQL • pgvector • LangChain`
+
+An LLM-powered document intelligence system combining dense vector retrieval with PostgreSQL full-text search and cross-encoder reranking.
+
+- Handles 100+ page documents
+- Hybrid semantic + keyword retrieval
+- LLM evaluation for faithfulness and relevance
+
+---
+
+### 🔹 Farmer Income Prediction
+`Python • XGBoost • Scikit-Learn • Optuna • Pandas`
+
+Built an end-to-end ML pipeline on 50K+ records and 105 features, achieving **9.52% MAPE** using feature engineering, cross-validation, and hyperparameter optimization.
+
+---
+
+## 🏆 Achievements
+
+- **ICPC Asia Regionalist 2024** — Ranked 205th onsite among 500+ teams
+- **Amazon ML Summer School 2025 & 2026** — Selected among the top applicants nationwide
+- **CodeChef 4★** | **Codeforces Specialist**
+- Solved **900+ algorithmic problems**
+- **Top 0.5%** — IIT Kharagpur National Data Science Hackathon
+- **Top ~3%** — Adobe GenSolve 2025
+- **Flipkart GRiD 7.0 National Semi-Finalist**
+- **Hacktoberfest 2023** — Contributed across multiple open-source repositories
+
+---
+
+## 📊 GitHub Stats
+
+![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugVarshney&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YugVarshney&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/yug-varshney-488094290)
